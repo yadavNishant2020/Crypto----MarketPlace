@@ -1,3 +1,4 @@
+import { Navbar, Welcome, Services, Transactions, Loader } from "./components"
 const App = () => {
   return (
     <div className="App">
